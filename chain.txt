@@ -1,1 +1,0 @@
-Chain of Responsability.- Este patron de comportamiento sería muy útil al momento de manejar las transacciones de dinero con el cliente debido a que podría manejar una cadena al momento de entregar o recibir efectivo por lo que calcularía el retiro o depósito dentro de una pipeline donde los nodos serian los tipos de billetes y monedas.
